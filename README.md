@@ -105,7 +105,3 @@ Contributions, issues, and feature requests are welcome!
 
 ## **License**  
 This repository is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.  
-
----
-
-Feel free to modify as needed and let me know if you need additional sections!
